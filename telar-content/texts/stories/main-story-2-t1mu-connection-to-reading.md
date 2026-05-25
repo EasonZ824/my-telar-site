@@ -1,0 +1,5 @@
+---
+title: "Connection to Reading"
+---
+
+This observation connects to Emily Esfahani Smith's argument that kindness and support help create strong relationships. Smith explains that healthy relationships are built through small acts of attention and emotional support rather than dramatic gestures. She writes that "kindness and generosity" are what help relationships stay strong (Smith).This classroom scene extends Smith's idea beyond romantic relationships because the support here is academic instead of personal. The professor's effort to explain the material clearly and the students' shared focus created a supportive atmosphere. Even small actions like answering questions, slowing down to explain ideas, or listening carefully can help students feel supported and less isolated during stressful academic situations.

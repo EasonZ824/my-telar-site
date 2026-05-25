@@ -1,6 +1,9 @@
-order,story_id,title,subtitle,byline,private
-orden,id_historia,titulo,subtitulo,firma,privada
-#,# Must match the tab name exactly. Use lowercase letters and hyphens (e.g. allegorical-woman),Story title,Optional subtitle,Optional attribution (supports markdown),"If ""yes"", then users will need the key you set in _config.yml to access this story."
-#,# Debe coincidir con el nombre de la pestaña exactamente. Usa letras minúsculas y guiones (p. ej. mujer-alegorica),Título de la historia,Subtítulo opcional,Atribución opcional (admite markdown),"Si ""sí"", los usuarios deberán utilizar la clave que fijes en _config.yml"
-1,blank_template,replace me with your title,,,FALSE
-2,plantilla_en_blanco,reemplázame con tu título,,,FALSE
+order,story_id,title,subtitle,byline,private,show_sections
+orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
+0,introduction-bqfg,Introduction,,,,
+1,main-story-1-nn6g,Small Connections on Campus,,,,
+2,main-story-2-t1mu,Learning Together,,,,
+3,main-story-3-8zj3,Solving Problems Together,,,,
+4,main-story-4-oqq7,Learning Through Attention,,,,
+5,conclusion-8nph,Conclusion,,,,
+6,work-cite-kj06,Work Cite,,,,

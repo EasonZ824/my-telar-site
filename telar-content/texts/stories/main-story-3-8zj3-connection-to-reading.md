@@ -1,0 +1,5 @@
+---
+title: "Connection to Reading"
+---
+
+This observation connects to the article "Why Does Love Feel Magical? It's an Evolutionary Advantage," which explains that people naturally build strong connections through cooperation and shared commitment. The authors argue that relationships help people stay connected during difficult situations and that support from others creates a sense of stability. They explain that love can act as a bond that keeps people working together over time. This idea is shown in the photo because the three students are studying maths together instead of working alone. They are sharing ideas, paying attention to each other, and solving problems as a group. The scene goes beyond romantic relationships because the connection here is based on friendship and academic support. Even though the students are only studying, working together makes them feel trusted and comfortable, and makes them feel more connected during a stressful school task.
